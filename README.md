@@ -1,4 +1,4 @@
-## Hi👋,Jaspeer Gasic 
+## Hi👋, Jaspeer Gasic 
 
 <!--
 **im-jaspeer/im-jaspeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 My main technologies are Javascript, and .NET
 Focused on front-end but the goal is to be a fullstack developer.
 
-Interests are movies and film photography.
+Interests are movies and film photography 🎞️.
 
 At the moment I'm learning:
-- Python
-- React
-- Framer/GSAP
+- Python 🐍
+- React 🤯
+- Framer/GSAP 🔃
 
 Future projects:
-- TUI fuzzyfinder package installer for Fedora using Python
-- Movie Tracking App using React 
+- TUI fuzzyfinder package installer for Fedora using Python []
+- Movie Tracking App using React []
